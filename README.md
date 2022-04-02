@@ -1,4 +1,4 @@
-# Teemu's layout for the BT60 v2 keyboard
+# BPanther-2000 layout for the BT60 v2 keyboard
 
 ![alt text](teemulayout.png)
 
