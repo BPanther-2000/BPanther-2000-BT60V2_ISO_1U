@@ -3,4 +3,3 @@ on: [push, pull_request, workflow_dispatch]
 jobs:
   build:
     uses: zmkfirmware/zmk/.github/workflows/build-user-config.yml@main
-     run: west build -s zmk/app -b bt60 -- -DZMK_CONFIG="${GITHUB_WORKSPACE}/config"
